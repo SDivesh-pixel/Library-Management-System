@@ -1,10 +1,7 @@
-# 📚 Library Management System
+#  Library Management System
 
 A modern, full-stack library management system built with React and Node.js for efficient book and borrower tracking.
 
-## 📸 Preview
-
-![Library Management System](output.png)
 
 ## 🚀 Features
 
